@@ -1,6 +1,8 @@
 # Git Training
 >这里是我们到第一节课，讲述的是Git到使用
 
+[这里是详细到Git教程，可以参考它学习更多内容](https://github.com/hengtian/git/blob/master/zh/SUMMARY.md)
+
 ### 1. 初始化一个Git支持的项目
 ```bash
 mkdir git_test
